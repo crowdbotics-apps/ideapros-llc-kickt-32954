@@ -75,5 +75,6 @@ export const modulesOptions = {
     SignInButtonText: "Login",
     SignUpButtonText: "Sign Up"
   },
+
   "@modules/camera": { buttonText: "+ Take Photo", styles: styles }
 }
